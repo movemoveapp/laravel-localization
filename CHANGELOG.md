@@ -1,3 +1,6 @@
+### 1.7.1
+- Fixed the required location is not applied if it matches the location of the client 
+
 ### 1.7.0
 - Support for localization switch by domain names
 
